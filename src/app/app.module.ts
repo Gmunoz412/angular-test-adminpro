@@ -26,6 +26,7 @@ import { NgChartsModule } from 'ng2-charts';
     SharedModule,
     AuthModule,
     NgChartsModule
+  
     
   ],
   bootstrap: [AppComponent]
